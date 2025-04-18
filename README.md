@@ -64,7 +64,7 @@ print(sol.countAndSay(4))  # Output: "1211"
 It represents the dream of empowering coders, solving real-world problems, and building next-gen software — starting with problems like this one.
 
 💡 Powered by passion. Guided by purpose. Built with faith.
-— Coding Moves
+— <a href="https://www.youtube.com/@Coding_Moves">Coding Moves</a>
 
 # 🤝 Connect
 Stay tuned for more coding solutions, innovative projects, and future products under the Coding Moves banner, in shaa Allah.
